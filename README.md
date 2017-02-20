@@ -1,3 +1,3 @@
 # article
 
-请看issues(https://github.com/kujian/article/issues)
+请看[issues](https://github.com/kujian/article/issues)
